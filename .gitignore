@@ -1,1 +1,1 @@
-build/
+git rm -r --cached build/
