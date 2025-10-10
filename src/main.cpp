@@ -3,7 +3,6 @@
 #include "triangles.h"
 #include <set>
 #include <algorithm>
-#pragma once
 
 
 //компиляция: ./build/triangles < ./tests/test1_input.txt или же ./build/triangles если ввод с клавиатуры
